@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A148C</color> <!-- Deep purple for primary color -->
+    <color name="colorSecondary">#FF4081</color> <!-- Pinkish accent color -->
+    <color name="colorBackground">#000000</color> <!-- Black background -->
+    <color name="colorText">#FFFFFF</color> <!-- White text -->
+</resources>
